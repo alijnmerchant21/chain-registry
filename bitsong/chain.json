@@ -29,51 +29,74 @@
     ]
   },
   "peers": {
-    "persistent_peers": [
+    "persistent_peers": [ 
       {
-        "id": "a62038142844828483dbf16fa6dd159f6857c81b",
-        "address": "173.212.247.98:26656"
+        "id": "e2b9971222adf71f7199c670b7e85471c447e926",
+        "address": "157.90.255.143:26656"
       },
       {
-        "id": "e9fea0509b1a2d16a10ef9fdea0a4e3edc7ca485",
-        "address": "185.144.83.158:26656"
+        "id": "120740c15a8a19c232b1aa4d80b20de248b33db3",
+        "address": "135.181.129.94:26656"
       },
       {
-        "id": "8208adac8b09f3e2499dfaef24bb89a2d190a7a3",
-        "address": "164.68.109.246:26656"
+        "id": "d741773bc5eecbefb7b14fcca5e3e0fedd49d5a3",
+        "address": "157.90.95.104:26656"
       },
       {
-        "id": "cf031ac1cf44c9c311b5967712899391a434da9a",
-        "address": "161.97.97.61:26656"
+        "id": "6e93a30587671e2cecacbcbb27092809bb20249f",
+        "address": "95.217.203.59:31656"
       },
       {
-        "id": "d6b2ae82c38927fa7b7630346bd84772e632983a",
-        "address": "157.90.95.104:15631"
+        "id": "adfe1cf240780cf8d58266171ced72fb4e9a7a6d",
+        "address": "23.226.14.168:26656"
       },
       {
-        "id": "a5885669c1f7860bfe28071a7ec00cc45b2fcbc3",
-        "address": "144.91.85.56:26656"
+        "id": "f36d3a926ae0583e60f00e7bc54711f3cb7fe769",
+        "address": "195.201.58.166:26656"
       },
       {
-        "id": "325a5920a614e2375fea90f8a08d8b8d612fdd1e",
-        "address": "137.74.18.30:26656"
+        "id": "9c9f030298bdda9ca69de7db8e9a3aef33972fba",
+        "address": "135.181.16.236:31656"
       },
       {
-        "id": "ae2787a337c3599b16410f3ac09d6918da2e5c37",
-        "address": "46.101.238.149:26656"
+        "id": "9806602afb65ba45d1048d65285d5c6e50285088",
+        "address": "178.18.242.242:26656"
       },
       {
-        "id": "9336f75cd99ff6e5cdb6335e8d1a2c91b81d84b9",
-        "address": "65.21.0.232:26656"
+        "id": "4fdd438ea70927003022ecc308e36bc1924ec598",
+        "address": 51.210.104.207:26656”
       },
       {
-        "id": "9c6e52e78f112a55146b09110d1d1be47702df27",
-        "address": "135.181.211.184:36656"
+        "id": "3cf3effd3ecb33bdbb5c5e6528c88fde4869b97c",
+        "address": "116.202.139.113:26656"
       },
       {
-        "id": "2cd6bb75fc9279c62c0ef3af82fbe08632743472",
-        "address": "bitsong-peer.panthea.eu:31656",
-        "provider": "Panthea EU"
+        "id": "075cf589e44c74687ef3a4df3a583f482bce57e0",
+        "address": "46.166.143.79:26656"
+      },
+      {
+        "id": "f9d318eaf38988ce2b65b795068d86b214866c91"
+        "address": "141.94.170.26:26256"
+      },
+      {
+        "id": "fa932748b327fdde6d235b28a9850f8b8bd3326a",
+        "address": "95.217.119.101:31656"
+      },
+      {
+        "id": "d52f6e4fe1819133474e977d7e1d73124d1f4af5",
+        "address": "95.217.156.76:26656"
+      },
+      {
+        "id": "5ebab02914638005773dac8026f441e06c115a44",
+        "address": "74.207.226.176:26656"
+      },
+      {
+        "id": "e5428ce29ccd26434828a577906ac9c413ca6a48",
+        "address": "80.71.57.42:26656"
+      },
+      {
+        "id": "2afc435e2246ff3f16ade85b52264367945d12b5",
+        "address": "176.58.124.226:26656"
       }
     ],
     "seeds": [
